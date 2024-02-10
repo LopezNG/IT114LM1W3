@@ -55,4 +55,11 @@ console.log("Incremented numbers:", incrementedNumbers);
 // Answer: In Node.js, the `require` function is used to import modules, and `module.exports` is used to export variables, functions, or objects from a module to make them available to other modules. It allows for modularity and code reuse in Node.js applications.
 
 // Should we use it over the import and export keywords? Why? Research your answer.
-// Answer: 
+// Answer: Yes, import and export keywords should generally be preferred over require and module.exports because they provide a more standardized and modern approach to module handling in JavaScript, offering benefits like asynchronous loading, tree-shaking, and better support for static analysis tools.
+
+
+
+
+
+
+
